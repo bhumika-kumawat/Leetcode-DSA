@@ -4,27 +4,19 @@ public:
 
         int n = nums.size();
 
-        int majorityEl = nums[0];
-        int count = 1;
+        for (int i = 0; i < n; i++) {
+            int count = 1;
 
-        for(int i = 1; i < n; i++)
-        {
-            if(nums[i] == majorityEl)
-            {
-                count++;
-            }
-            else
-            {
-                count--;
+            for (int j = i + 1; j < n; j++) {
+                if (nums[i] == nums[j]) {
+                    count++;
+                }
             }
 
-            if(count == 0)
-            {
-                majorityEl = nums[i];
-                count = 1;
+            if (count > n / 2) {
+                return nums[i];
             }
         }
-
-        return majorityEl;
+        return -1;
     }
 };
