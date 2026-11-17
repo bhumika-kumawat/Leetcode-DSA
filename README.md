@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
+| [0867-transpose-matrix](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
@@ -63,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 ## Math
 |  |
 | ------- |
