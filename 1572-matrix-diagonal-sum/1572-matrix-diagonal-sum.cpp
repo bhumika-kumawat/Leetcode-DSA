@@ -1,3 +1,4 @@
+
 class Solution {
 public:
     int diagonalSum(vector<vector<int>>& mat) {
@@ -5,18 +6,20 @@ public:
         int n = mat.size();
         int sum = 0;
 
-        for(int i = 0; i < n; i++) {
+        for(int row = 0; row < n; row++) {
 
-            // Primary diagonal
-            sum += mat[i][i];
+            for(int col = 0; col < n; col++) {
 
-            // Secondary diagonal
-            sum += mat[i][n - 1 - i];
-        }
+                // Primary diagonal
+                if(row == col) {
+                    sum += mat[row][col];
+                }
 
-        // Avoid counting middle element twice
-        if(n % 2 != 0) {
-            sum -= mat[n / 2][n / 2];
+                // Secondary diagonal
+                else if(row + col == n - 1) {
+                    sum += mat[row][col];
+                }
+            }
         }
 
         return sum;
