@@ -17,8 +17,7 @@ public:
         // step 2: reverse transpose matrix
 
         for (int row = 0; row < n; row++) {
-
-            reverse(matrix[row].begin(), matrix[row].end());
+             reverse(matrix[row].begin(), matrix[row].end());
         }
     }
 };
