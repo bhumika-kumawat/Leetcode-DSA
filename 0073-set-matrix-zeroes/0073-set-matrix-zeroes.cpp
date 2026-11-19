@@ -1,49 +1,52 @@
 class Solution {
 public:
-    // Updates the matrix after zeroing affected rows and columns.
+
+    void setRow(vector<vector<int>>& matrix, int row, int colSize)
+    {
+        for(int col = 0; col < colSize; col++)
+        {
+            matrix[row][col] = 0;
+        }
+    }
+
+    void setCol(vector<vector<int>>& matrix, int col, int rowSize)
+    {
+        for(int row = 0; row < rowSize; row++)
+        {
+            matrix[row][col] = 0;
+        }
+    }
+
     void setZeroes(vector<vector<int>>& matrix) {
-        int rows = matrix.size();
 
-        // An empty matrix has no row or column to update.
-        if (rows == 0) {
-            return;
-        }
+        int rowSize = matrix.size();
+        int colSize = matrix[0].size();
 
-        int cols = matrix[0].size();
-        vector<bool> zeroRows(rows, false);
-        vector<bool> zeroCols(cols, false);
+        vector<int> rows(rowSize, 0);
+        vector<int> cols(colSize, 0);
 
-        // Record every row and column that contains an original zero.
-        for (int row = 0; row < rows; row++) {
-            for (int col = 0; col < cols; col++) {
-                // A zero marks both its row and its column.
-                if (matrix[row][col] == 0) {
-                    zeroRows[row] = true;
-                    zeroCols[col] = true;
+        for(int row = 0; row < rowSize; row++)
+        {
+            for(int col = 0; col < colSize; col++)
+            {
+                if(matrix[row][col] == 0)
+                {
+                    rows[row] = 1;
+                    cols[col] = 1;
                 }
             }
         }
 
-        // Apply the stored row and column markers to the matrix.
-        for (int row = 0; row < rows; row++) {
-            for (int col = 0; col < cols; col++) {
-                // A cell becomes zero when its row or column was marked.
-                if (zeroRows[row] || zeroCols[col]) {
-                    matrix[row][col] = 0;
-                }
-            }
+        for(int row = 0; row < rowSize; row++)
+        {
+            if(rows[row] == 1)
+                setRow(matrix, row, colSize);
+        }
+
+        for(int col = 0; col < colSize; col++)
+        {
+            if(cols[col] == 1)
+                setCol(matrix, col, rowSize);
         }
     }
 };
-
-// Prints the matrix rows.
-void printMatrix(const vector<vector<int>>& matrix) {
-    // Print each row on a separate line.
-    for (const vector<int>& row : matrix) {
-        for (int value : row) {
-            cout << value << " ";
-        }
-        cout << "\n";
-    }
-}
-
