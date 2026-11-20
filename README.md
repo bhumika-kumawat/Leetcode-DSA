@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0832-flipping-an-image) |
 ## Hash Table
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 ## Counting
 |  |
