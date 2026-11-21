@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/1572-matrix-diagonal-sum) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0832-flipping-an-image) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0867-transpose-matrix) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
