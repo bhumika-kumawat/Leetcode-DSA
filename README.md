@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0283-move-zeroes) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
 |  |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0832-flipping-an-image) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
