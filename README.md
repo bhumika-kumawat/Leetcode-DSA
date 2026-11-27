@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/bhumika-kumawat/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
